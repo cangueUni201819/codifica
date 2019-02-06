@@ -16,7 +16,7 @@
             <div class="line"></div>
             <p>Progetto di Codifica di Testi a.a. 2018/2019</p>
             <a href="#" class="up btn-secondary"> Back UP </a>
-            <a href="https://github.com/GandaKangue" class="by">by Cangue jamba Ganda</a>
+            <a href="https://github.com/cangueUni201819" class="by">by Cangue jamba Ganda</a>
         </div>
         <script type="text/javascript" src="src/js/jquery/jquery-3.3.1.min.js"></script>
         <script type="text/javascript" src="src/js/jquery/popper.min.js"></script>
